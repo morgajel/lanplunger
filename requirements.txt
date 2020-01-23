@@ -1,0 +1,6 @@
+
+pyodbc
+flask
+flask-httpauth
+flask-restful
+gunicorn
